@@ -1,0 +1,53 @@
+Main TCB is setup
+called init
+TCB Thread --1 is setup
+TCB Thread --2 is setup
+TCB Thread --3 is setup
+Suspending thread with tid : 0
+Starting Thread 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+yielding from T1
+Starting Thread 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+yielding from T2
+Starting Thread 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+yielding from T3
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+yielding from T1
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+yielding from T2
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+yielding from T3
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+yielding from T1
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+yielding from T2
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+yielding from T3
+Ending Thread 1
+Resuming thread with tid : 0
+Ending Thread 2
+Ending Thread 3
+t1 joined and the returned value is : output of t1
+t2 joined and the returned value is : output of t2
+t3 joined and the returned value is : output of t3
+Main done

@@ -1,0 +1,347 @@
+Main TCB is setup
+called init
+TCB Thread --1 is setup
+TCB Thread --2 is setup
+TCB Thread --3 is setup
+Suspending thread with tid : 0
+Starting Thread 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Timer expired 1 times
+Starting Thread 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Timer expired 2 times
+Starting Thread 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Timer expired 3 times
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Timer expired 4 times
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Timer expired 5 times
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Timer expired 6 times
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Timer expired 7 times
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Timer expired 8 times
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Timer expired 9 times
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Timer expired 10 times
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Timer expired 11 times
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Timer expired 12 times
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Timer expired 13 times
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Timer expired 14 times
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Timer expired 15 times
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Timer expired 16 times
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Timer expired 17 times
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Timer expired 18 times
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Timer expired 19 times
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Timer expired 20 times
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Timer expired 21 times
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Timer expired 22 times
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Timer expired 23 times
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Timer expired 24 times
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Timer expired 25 times
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Timer expired 26 times
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Timer expired 27 times
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Timer expired 28 times
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Timer expired 29 times
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Argument passed in T3 : 3
+Ending Thread 3
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Timer expired 30 times
+Argument passed in T2 : 2
+Argument passed in T2 : 2
+Ending Thread 2
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Argument passed in T1 : 1
+Ending Thread 1
+Resuming thread with tid : 0
+t1 check crossed
+t2 check crossed
+t3 check crossed
+Main done

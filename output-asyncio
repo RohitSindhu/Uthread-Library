@@ -1,0 +1,99 @@
+Main TCB is setup
+called init
+TCB Thread --1 is setup
+TCB Thread --2 is setup
+TCB Thread --3 is setup
+Suspending thread with tid : 0
+Starting Thread 1
+Doing async I/O
+Still reading...
+Starting Thread 2
+in T2
+in T2
+in T2
+in T2
+in T2
+in T2
+in T2
+in T2
+in T2
+in T2
+Ending Thread 2
+Starting Thread 3
+in T3
+in T3
+in T3
+in T3
+in T3
+in T3
+in T3
+in T3
+in T3
+in T3
+Ending Thread 3
+0xb83030
+Printing File contents :- 
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+2 2 2 2 2 2
+3 3 3 3 3 3
+
+Ending Thread 1
+Resuming thread with tid : 0
+t1 check crossed
+t2 check crossed
+t3 check crossed
+Main done
